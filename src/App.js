@@ -27,6 +27,7 @@ class App extends Component {
   }
   render(){
     return(
+      
       <div className='app'>
         <div className = 'card'>
         <h1 className = 'heading'>
@@ -37,6 +38,10 @@ class App extends Component {
         </h1>
         </div>
       </div>
+      
+      
+      
+      
     )
   }
 }
